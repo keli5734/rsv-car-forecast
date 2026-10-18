@@ -27,5 +27,5 @@ log mu_it = log P_i + alpha + b_i
 - P_i state population (offset); b_i BYM2 on a distance graph
 - a_qi, c_qi state-specific harmonic coefficients, iid normal
 - phi_it AR(1) within each state
-- x_it Florida incidence discounted by distance.
+- x_it Florida incidence discounted by distance
 
